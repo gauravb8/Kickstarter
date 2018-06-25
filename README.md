@@ -1,2 +1,2 @@
 # Kickstarter
-Front end application that allows users to list and browse Kickstarter projects conveniently
+Front end application that allows users to list and browse Kickstarter projects conveniently.
