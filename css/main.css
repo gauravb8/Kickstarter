@@ -1,0 +1,26 @@
+*{
+	font-family: 'PT Sans', sans-serif;
+	font-size: 20px;
+}
+
+span{
+	font-weight: lighter;
+}
+
+.navbar-custom{
+	background-color: #189d3cf2;
+	border-radius: 2px;
+	margin-bottom: 20px;
+}
+
+.navbar-brand{
+	color: white;
+	font-family: 'Lilita One', cursive;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+body{
+	background-color: #e9e5e59c;
+}
